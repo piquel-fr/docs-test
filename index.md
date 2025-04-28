@@ -2,15 +2,10 @@
 
 Welcome !
 
-{ include "warning" }
-djfqlsdjkfqjsldkfjq
-sdkfmqlskdfq
-{/}
-
-{ image "deez" }
+{ include "warning" /}
 
 - Hello
 
-{ yes }
+{ warning }
 skdmfjqlskdf
 {/}
