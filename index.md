@@ -2,7 +2,8 @@
 
 Welcome !
 
-{ include "warning" /}
+{ include "coming-soon" /}
+{ include "outdated" /}
 
 - Hello
 
