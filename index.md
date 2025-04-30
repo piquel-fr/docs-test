@@ -2,7 +2,7 @@
 
 Welcome !
 
-## [Contribution](contribute/before-pr)
+## [Contribution](contribute/before-pr.md)
 
 { include "coming-soon" /}
 { include "outdated" /}
