@@ -2,6 +2,8 @@
 
 Welcome !
 
+## [Contribution](contribute/before-pr)
+
 { include "coming-soon" /}
 { include "outdated" /}
 
