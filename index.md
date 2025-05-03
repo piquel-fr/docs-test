@@ -12,3 +12,11 @@ Welcome !
 { warning }
 skdmfjqlskdf
 {/}
+
+```go
+import "log"
+
+func main() {
+    log.Printf("Hello, world!")
+}
+```
