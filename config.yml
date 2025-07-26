@@ -1,4 +1,4 @@
 home_page: index
 highlight_style: tokyonight
 root: docs
-use_tailwind: true
+tailwind: true

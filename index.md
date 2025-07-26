@@ -4,8 +4,8 @@ Welcome !
 
 ## [Contribution](contribute/before-pr.md)
 
-{ include "coming-soon" /}
-{ include "outdated" /}
+{ include "coming-soon.md" /}
+{ include "outdated.md" /}
 
 - Hello
 
